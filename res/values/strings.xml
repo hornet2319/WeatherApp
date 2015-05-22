@@ -1,0 +1,22 @@
+<resources>
+
+
+    <string name="title_section1">My current location</string>
+    <string name="title_section2">Saved locations</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+
+    <string name="app_name">Weather Plus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_save">Save Location</string>
+    <string name="warning_internet">Check your Internet connection please</string>
+    <string name="warning_gps">Turn On your GPS please</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
